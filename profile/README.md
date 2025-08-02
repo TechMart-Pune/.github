@@ -3,7 +3,7 @@
 <img src="https://github.com/TechMart-Pune/.github/blob/main/profile/images/Logo.png" width=200 height=200>
 
 </div>
-
+<h2 align="center"> To join "TechMart" GitHub Organization, click <a href="https://github.com/TechMart-Pune/support/issues/new?assignees=&labels=invite+me&template=invitation.yml&title=Please+invite+me+to+the+TechMart+GitHub+Community+Organization" >here</a> </h2>
 <h2>📌 <ins>About Us</ins></h2>
 <p>
     ⭐ <b>3 C's</b> of our Community: Connect, Collaborate and Create! <br>
@@ -122,5 +122,5 @@
 </p>
 
 
-<h2 align="center"> To join "DEVs Dungeon" GitHub Organization, click <a href="https://github.com/TechMart-Pune/support/issues/new?assignees=&labels=invite+me&template=invitation.yml&title=Please+invite+me+to+the+TechMart+GitHub+Community+Organization" >here</a> </h2>
+<h2 align="center"> To join "TechMart" GitHub Organization, click <a href="https://github.com/TechMart-Pune/support/issues/new?assignees=&labels=invite+me&template=invitation.yml&title=Please+invite+me+to+the+TechMart+GitHub+Community+Organization" >here</a> </h2>
  -->
