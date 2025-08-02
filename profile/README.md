@@ -72,11 +72,11 @@
     
 <h2 align="center"> 🔗 Connect with Us </h2>
     
-[<img alt="DEVs Dungeon | Mail" width="80px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />](mailto:punetechmart@gmail.com)
+[<img alt="Tech Mart | Mail" width="100px" src="https://img.shields.io/badge/-Gmail-000000?logo=gmail&Color=0A66C2&style=flat-square" />](mailto:punetechmart@gmail.com)
     [<img alt="DEVs Dungeon | LinkedIn" width="100px" src="https://img.shields.io/badge/-LinkedIn-000000?logo=linkedin&Color=0A66C2&style=flat-square" />](https://www.linkedin.com/in/vishwajeetlondhe/)
-    [<img alt="DEVs Dungeon | Telegram" width="100px" src="https://img.shields.io/badge/-Facebook-000000?logo=facebook&Color=0A66C2&style=flat-square" />](https://t.me/all_technical_updates)
-    [<img alt="DEVs Dungeon | Instagram" width="100px" src="https://img.shields.io/badge/-Instagram-000000?logo=instagram&Color=0A66C2&style=flat-square" />](https://www.instagram.com/all_technical_updates)
-    [<img alt="DEVs Dungeon | Whatsapp" width="92px" src="https://img.shields.io/badge/-Twitter-000000?logo=twitter&Color=0A66C2&style=flat-square" />](https://whatsapp.com/channel/0029ValjFriICVfpcV9HFc3b)
+    [<img alt="Tech Mart | Telegram" width="100px" src="https://img.shields.io/badge/-Facebook-000000?logo=facebook&Color=0A66C2&style=flat-square" />](https://t.me/all_technical_updates)
+    [<img alt="Tech Mart | Instagram" width="100px" src="https://img.shields.io/badge/-Instagram-000000?logo=instagram&Color=0A66C2&style=flat-square" />](https://www.instagram.com/all_technical_updates)
+    [<img alt="Tech Mart | Whatsapp" width="100px" src="https://img.shields.io/badge/-Whatsapp-000000?logo=whatsapp&Color=0A66C2&style=flat-square" />](https://whatsapp.com/channel/0029ValjFriICVfpcV9HFc3b)
     
 </div>
 
