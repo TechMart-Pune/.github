@@ -59,7 +59,7 @@
 </p>
 
 
-<h2>📌 <ins>How do I join and become a part of <a href="https://devs-dungeon.github.io/bio/">DEVs Dungeon Community</a>?</ins></h2>
+<h2>📌 <ins>How do I join and become a part of <a href="https://linktr.ee/vishwajeetlondhe">TechMart Community</a>?</ins></h2>
 <p>
     ⭐ Join us on <b><a href="https://whatsapp.com/channel/0029ValjFriICVfpcV9HFc3b">WhatsApp</a></b> to interact with 10k+ Developers onboard! <br>
     ⭐ Join us on <b><a href="https://t.me/all_technical_updates">Telegram</a></b> to interact with 10k+ Developers onboard! <br>
