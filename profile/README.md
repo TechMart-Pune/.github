@@ -63,7 +63,7 @@
 <p>
     ⭐ Join us on <b><a href="https://whatsapp.com/channel/0029ValjFriICVfpcV9HFc3b">WhatsApp</a></b> to interact with 10k+ Developers onboard! <br>
     ⭐ Join us on <b><a href="https://t.me/all_technical_updates">Telegram</a></b> to interact with 10k+ Developers onboard! <br>
-    ⭐ Join our <b><a href="https://github.com/Devs-Dungeon/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">GitHub Organization</a></b> to collaborate and contribute towards our Community projects! <br>
+    ⭐ Join our <b><a href="https://github.com/TechMart-Pune/support/issues/new?assignees=&labels=invite+me&template=invitation.yml&title=Please+invite+me+to+the+TechMart+GitHub+Community+Organization">GitHub Organization</a></b> to collaborate and contribute towards our Community projects! <br>
 </p>
 
 ![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
