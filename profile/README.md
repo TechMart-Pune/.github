@@ -8,7 +8,7 @@
 <p>
     ⭐ <b>3 C's</b> of our Community: Connect, Collaborate and Create! <br>
     ⭐ We are an open <b>Learning Community</b> dedicated towards developers across the world! <br>
-    ⭐ We are a community of <b>25k+ Developers</b> from across the world and use <b><a href="https://nas.io/devs-dungeon">WhatsApp</a></b> as our primary community platform for interaction! <br>
+    ⭐ We are a community of <b>25k+ Developers</b> from across the world and use <b><a href="https://whatsapp.com/channel/0029ValjFriICVfpcV9HFc3b">WhatsApp</a></b> as our primary community platform for interaction! <br>
 </p>
 
 
@@ -61,8 +61,8 @@
 
 <h2>📌 <ins>How do I join and become a part of <a href="https://devs-dungeon.github.io/bio/">DEVs Dungeon Community</a>?</ins></h2>
 <p>
-    ⭐ Join us on <b><a href="https://nas.io/devs-dungeon">WhatsApp</a></b> to interact with 10k+ Developers onboard! <br>
-    ⭐ Join us on <b><a href="https://discord.gg/GqzWmqDKzU">Discord</a></b> to interact with 10k+ Developers onboard! <br>
+    ⭐ Join us on <b><a href="https://whatsapp.com/channel/0029ValjFriICVfpcV9HFc3b">WhatsApp</a></b> to interact with 10k+ Developers onboard! <br>
+    ⭐ Join us on <b><a href="https://t.me/all_technical_updates">Telegram</a></b> to interact with 10k+ Developers onboard! <br>
     ⭐ Join our <b><a href="https://github.com/Devs-Dungeon/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization">GitHub Organization</a></b> to collaborate and contribute towards our Community projects! <br>
 </p>
 
