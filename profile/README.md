@@ -122,5 +122,5 @@
 </p>
 
 
-<h2 align="center"> To join "DEVs Dungeon" GitHub Organization, click <a href="https://github.com/Devs-Dungeon/support/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.yml&title=Please+invite+me+to+the+GitHub+Community+Organization" >here</a> </h2>
+<h2 align="center"> To join "DEVs Dungeon" GitHub Organization, click <a href="https://github.com/TechMart-Pune/support/issues/new?assignees=&labels=invite+me&template=invitation.yml&title=Please+invite+me+to+the+TechMart+GitHub+Community+Organization" >here</a> </h2>
  -->
