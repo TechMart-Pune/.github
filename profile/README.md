@@ -1,6 +1,6 @@
 <div align=center>
 
-<img src="https://github.com/Devs-Dungeon/.github/assets/56317368/dfbb29a5-d44c-416a-a79b-9cfa7249669d" width=200 height=200>
+<img src="https://github.com/TechMart-Pune/.github/blob/main/profile/images/logo.jpg" width=200 height=200>
 
 </div>
 
